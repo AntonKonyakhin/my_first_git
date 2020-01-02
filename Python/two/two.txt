@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Git
 It's new line
+=======
+Hello World
+>>>>>>> parent of 1582165... two text commit
